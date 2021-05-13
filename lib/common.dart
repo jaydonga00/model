@@ -8,7 +8,6 @@ class Common {
       style: TextStyle(
         fontSize: 25,
         fontWeight: FontWeight.bold,
-        
       ),
     );
   }
